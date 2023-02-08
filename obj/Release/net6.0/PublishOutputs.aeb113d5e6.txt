@@ -1,0 +1,7 @@
+C:\mvc2\MyMVCapp\bin\Publish\MyMVCapp.exe
+C:\mvc2\MyMVCapp\bin\Publish\appsettings.Development.json
+C:\mvc2\MyMVCapp\bin\Publish\appsettings.json
+C:\mvc2\MyMVCapp\bin\Publish\MyMVCapp.dll
+C:\mvc2\MyMVCapp\bin\Publish\MyMVCapp.deps.json
+C:\mvc2\MyMVCapp\bin\Publish\MyMVCapp.runtimeconfig.json
+C:\mvc2\MyMVCapp\bin\Publish\MyMVCapp.pdb
